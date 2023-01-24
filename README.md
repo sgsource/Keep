@@ -32,7 +32,7 @@ keep                   # Django project
 │   ├── src
 │   │   ├── components
 │   │   │   ├── ColorSelector.js # color customization
-│   │   │   ├── CreateNode.js    # new note
+│   │   │   ├── CreateNote.js    # new note
 │   │   │   ├── NotePaper.js     # notes in database
 │   │   │   └── utils.js         # available colors
 │   │   ├── pages
