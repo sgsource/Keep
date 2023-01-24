@@ -17,7 +17,7 @@ Table of Contents
 
 Folder Structure
 ================
-
+```
 keep                   # Django project
 ├── api                # REST API
 │   ├── models.py      # data model configuration
@@ -48,7 +48,8 @@ keep                   # Django project
 │   ├── urls.py        # specifies where to look for URLs
 │   └── ...
 ├── requirements.txt   # python dependencies
-└── 
+└── ...
+```
 
 Setup
 =====
