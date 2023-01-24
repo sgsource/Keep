@@ -9,6 +9,7 @@ Table of Contents
   * [Setup](#setup)
     * [Installing Node Dependencies](#installing-node-dependencies)
     * [Build](#build)
+    * [Installing Python Dependencies](#installing-python-dependencies)
     * [Django Migrations](#django-migrations)
   * [Running the Server](#running-the-server)
 <!--te-->
@@ -30,18 +31,18 @@ Build
 While in frontend:
 ```
 $ npm run build
+$ cd ..
+```
+
+Installing Python Dependencies
+------------------------------
+
+```
+$ pip install -r requirements.txt
 ```
 
 Django Migrations
 -----------------
-
-If you are still in frontend:
-
-```
-$ cd ..
-```
-
-Then
 
 ```
 $ python manage.py migrate
