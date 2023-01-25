@@ -2,6 +2,8 @@ Keep
 ====
 A local and personal Google Keep clone
 
+![](https://github.com/sgsource/keep/demo.gif)
+
 Table of Contents
 =================
 
