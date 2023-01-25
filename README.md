@@ -2,7 +2,7 @@ Keep
 ====
 A local and personal Google Keep clone
 
-![](https://github.com/sgsource/Keep/blob/main/demo.gif)
+![](https://github.com/sgsource/Keep/blob/main/demo.gif | width=100)
 
 Table of Contents
 =================
